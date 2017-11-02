@@ -61,12 +61,11 @@
 
 <p style="text-align: center;"><img alt="Google" src="https://storage.googleapis.com/gcs.gcpug.tw/sponsor-logo/google.png" style="width: 300px;"></p>
 
+<p style="text-align: center;"><img alt="cloudmile" src="https://storage.googleapis.com/gcs.gcpug.tw/sponsor-logo/cloudmile.jpg" style="width: 300px;"></p>
 
 #### 協助廠商
 
 <p style="text-align: center;"><img alt="gliacloud" src="https://storage.googleapis.com/gcs.gcpug.tw/sponsor-logo/gliacloud.jpg" style="width: 300px;"></p>
-
-<p style="text-align: center;"><img alt="cloudmile" src="https://storage.googleapis.com/gcs.gcpug.tw/sponsor-logo/cloudmile.jpg" style="width: 300px;"></p>
 
 <p style="text-align: center;"><img alt="qnap" src="https://storage.googleapis.com/gcs.gcpug.tw/sponsor-logo/qnap.png" style="width: 300px;"></p>
 
